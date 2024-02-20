@@ -18,4 +18,10 @@ d = {'Anna' : 3.99, 'Betty': 3.78}
 for k,v in d.items():
   print(k,v)
 ```
+
+# diffusers
+
+  pip install --upgrade diffusers[torch]
+  pip install --upgrade transformers
+
 นภัสพร จันทร์พันธ์

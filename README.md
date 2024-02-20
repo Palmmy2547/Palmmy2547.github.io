@@ -24,4 +24,9 @@ for k,v in d.items():
   pip install --upgrade diffusers[torch]
   pip install --upgrade transformers
 
+  #คำสั่งรัน
+  Python game
+  Python pysid6/app01.py
+  streamlit run streamlit
+
 นภัสพร จันทร์พันธ์
